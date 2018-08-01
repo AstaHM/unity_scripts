@@ -37,4 +37,4 @@ using Vuforia;
     Debug.Log("this device does not support autofocus");
     }
   }
-}
+}//
